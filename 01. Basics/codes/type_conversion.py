@@ -1,8 +1,8 @@
-# x = "90"
-# y = "80"
+x = "90"
+y = "80"
 
-x = "90.8"
-y = "80.9"
+# x = "90.8"
+# y = "80.9"
 
 # z = x + y
 # print(z)
@@ -12,8 +12,10 @@ y = "80.9"
 # z = a + b
 # print(z)
 
-a = int(float(x))
-b = int(float(y))
+# a = int(float(x))
+# b = int(float(y))
 
-z = a + b
-print(z)
+# z = a + b
+# print(z)
+
+print(float(x)+float(y))

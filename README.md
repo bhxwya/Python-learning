@@ -1,6 +1,6 @@
 # Python Learning
 
-This repository documents my Python learning journey from the basics to intermediate concepts through notes, practice programs, and learning resources.
+This repository documents my Python learning journey from the basics to advanced concepts through notes, practice programs, and learning resources.
 
 ## Topics Covered
 
@@ -16,14 +16,24 @@ This repository documents my Python learning journey from the basics to intermed
 - Functions
 - Exception Handling
 - File Handling
+- OOP
+- Modules & Packages
+- Virtual Environments
+- Functional Python
+- Iterators & Generators
+- Decorators
+- Regex
+- JSON
+- Requests Library
+- Logging Basics
 
 ## Repository Includes
 
-- 📂 13 organized topic folders
-- 📸 263+ screenshots and notes
+- 📁 23 organized topic folders
+- 📸 398+ screenshots and notes
 - 💻 Practice programs
-- 📝 Personal learning materials
+- 📚 Personal learning materials
 
-## Purpose
+## Current Status
 
-This repository serves as a collection of my Python notes and practice while learning the language. It will continue to grow as I explore advanced Python concepts and build projects.
+**Advanced Python: Completed ✅**

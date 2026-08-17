@@ -18,7 +18,7 @@
 
 # \\ - suppose we want out this formula is p\n+t but \n means new line, so see
 # print("this formula is p\n+t") #gives the +t in new line to fix this,
-# print("this formula is p\\n+t")
+print("this formula is p\\n+t")
 
 # \b
 # print("My name is Bhawyaaa\b")

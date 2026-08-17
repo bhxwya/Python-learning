@@ -1,3 +1,2 @@
-
-# print(my_file.readline())
-# print(my_file.readline())
+i in file:
+    #     print(i)

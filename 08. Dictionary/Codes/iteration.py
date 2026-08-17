@@ -6,11 +6,11 @@ my_dict = {"name": "Anubhav",
 """keys method"""
 # print(my_dict.keys()) # Returns a dict_keys object (view)
 
-# for k in my_dict.keys():
-#     print(k)
+for k in my_dict.keys():
+    print(k)
 
-# for k in my_dict.keys():
-#     print(my_dict[k])
+for k in my_dict.keys():
+    print(my_dict[k])
 
 """values method"""
 # print (my_dict.values()) # Returns a dict_values object, not a list

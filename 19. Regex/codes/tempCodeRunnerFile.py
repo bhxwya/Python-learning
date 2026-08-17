@@ -1,0 +1,1 @@
+reg = re.compile(r"[Rr]at")

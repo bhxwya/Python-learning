@@ -1,0 +1,10 @@
+Python is a powerful programming language.
+Generators allow us to process data one item at a time.
+This is useful when working with large files.
+Iterators remember their current position.
+The yield keyword pauses a generator.
+When requested again, the generator continues from where it stopped.
+Learning Python takes practice and experimentation.
+Small programs can teach surprisingly big concepts.
+Keep building, testing, and breaking things.
+Every error is another clue about how the code works.
