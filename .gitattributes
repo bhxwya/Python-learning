@@ -5,3 +5,5 @@
 *.jpg linguist-generated
 *.jpeg linguist-generated
 *.gif linguist-generated
+*.html linguist-generated
+*.htm linguist-generated
